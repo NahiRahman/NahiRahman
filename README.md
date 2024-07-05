@@ -1,6 +1,7 @@
 Hi, I’m @NahiRahman
 <br>
-This is my first Git repository
+This is my first Git repository(nahi)
+
 
 <!---
 NahiRahman/NahiRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
